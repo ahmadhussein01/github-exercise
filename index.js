@@ -1,4 +1,4 @@
 // welcome to index.js file, write the console.log code underneath
-console.log("ahmad hussein");
+console.log("hello world!");
 
 
